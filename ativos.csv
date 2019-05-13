@@ -1,0 +1,391 @@
+﻿;codigo;titulo;endereco;bairro;estado;cidade;area
+ABCP11;ABCP11;Grand Plaza Shopping;Av. Industrial, 600;Tamanduateí 3;SP;Santo André;69.628,00 m2
+AEFI11;AEFI11;Campinas;Avenida John Boyd Dunlop, s/n;Jardim Ipaussurama;SP;Campinas;96.435,16 m2
+AEFI11;AEFI11;Cuiabá;Avenida Fernando Corrêa da Costa, s/nº;Nossa Senhora Aparecida;MT;Cuiabá;25.000,00 m2
+AGCX11;AGCX11;Ag 14 Bis;Av. Marechal Câmara, 160;Centro;RJ;Rio de Janeiro;1.900,31 m2
+AGCX11;AGCX11;Ag Av Chile;Av. República do Chile, 230;Centro;RJ;Rio de Janeiro;1.139,67 m2
+AGCX11;AGCX11;Ag Av. Pres. Wilson;Av. Rio Branco, 311-B;Centro;RJ;Rio de Janeiro;713,62 m2
+AGCX11;AGCX11;Ag Bandeira;R. Mariz e Barros, 79 (Loja);Praça da Bandeira;RJ;Rio de Janeiro;1.339,00 m2
+AGCX11;AGCX11;Ag Barra Funda;Av. Rio Branco, 1675 (Loja);Campos Eliseos;SP;São Paulo;1.293,02 m2
+AGCX11;AGCX11;Ag Benedito Coutinho;R. Antônio Bernardo Coutinho, 163;Centro;SP;Osasco;1.206,10 m2
+AGCX11;AGCX11;Ag Campo Limpo;Est. do Campo Limpo, 5520;Vila Pirajussara;SP;São Paulo;604,00 m2
+AGCX11;AGCX11;Ag Capão Redondo;Estrada de Itapecerica, 3429;Vila Maracana;SP;São Paulo;1.448,48 m2
+AGCX11;AGCX11;Ag Carapicuiba;Av. Rui Barbosa, 281 (Calçadão);Centro;SP;Carapicuiba;1.949,20 m2
+AGCX11;AGCX11;Ag Cipó Guaçu;R. Sesefredo Klein Doll, 12;Cipó Guaçu;SP;Embu-Guaçu;551,00 m2
+AGCX11;AGCX11;Ag Estrada Rio do A;Est. Rio do A, 1131;;RJ;Campo Grande;571,41 m2
+AGCX11;AGCX11;Ag Guaianases;R. Salvador Gianetti, 436;Guaianases;SP;São Paulo;2.475,10 m2
+AGCX11;AGCX11;Ag Guarapiranga;Av. de Pinedo, 228;Capela do Socorro;SP;São Paulo;1.312,18 m2
+AGCX11;AGCX11;Ag Hebraica;Av. Brigadeiro Faria Lima, 1644;Jardim Paulistano;SP;São Paulo;323,31 m2
+AGCX11;AGCX11;Ag Imirim;Av. Imirim, 1271;Imirim;SP;São Paulo;1.384,34 m2
+AGCX11;AGCX11;Ag Inconfidencia;R. Curitiba, 888;Centro;MG;Belo Horizonte;2.373,17 m2
+AGCX11;AGCX11;Ag Industrial;Av. Comendador Alexandrino Garcia, 1285;Marta Helena;MG;Uberlândia;552,00 m2
+AGCX11;AGCX11;Ag Ipanema;R. Visconde de Pirajá, 127;Ipanema;RJ;Rio de Janeiro;510,00 m2
+AGCX11;AGCX11;Ag Itaquaquecetuba;R. Sebastião Ferreira dos Santos, 93;Centro;SP;Itaquaquecetuba;2.342,10 m2
+AGCX11;AGCX11;Ag Jardim da Saúde;Av. do Cursino, 1348;Jardim da Saúde;SP;São Paulo;1.833,14 m2
+AGCX11;AGCX11;Ag Jundiapeba;Al. Sto. Ângelo, 118;Jundiapeba;SP;Mogi das Cruzes;593,44 m2
+AGCX11;AGCX11;Ag Leme;R. Antônio Vieira, 24 - Loja A;Leme;RJ;Rio de Janeiro;696,80 m2
+AGCX11;AGCX11;Ag Meier;R. Dias da Cruz, 28-A (Loja);Meier;RJ;Rio de Janeiro;1.483,53 m2
+AGCX11;AGCX11;Ag Nova Iguacu;Av. Marechal Floriano Peixoto, 2370;Centro;RJ;Nova Iguaçu;3.256,00 m2
+AGCX11;AGCX11;Ag Osasco;Av. das Esmeraldas, 512 e R. Rubi, 371;Mutinga;SP;Osasco;804,00 m2
+AGCX11;AGCX11;Ag Paes Leme;R. Paes Leme, 250 258;Pinheiros;SP;São Paulo;903,60 m2
+AGCX11;AGCX11;Ag Pátio do Colégio;Lg. Páteo do Colégio, 1;Centro;SP;São Paulo;676,00 m2
+AGCX11;AGCX11;Ag Pedro Vicente;R. Pedro Vicente, 222;Luz;SP;São Paulo;814,20 m2
+AGCX11;AGCX11;Ag Pirituba;R. Guerino Giovani Leardini, 63/67;Vila Pirituba;SP;São Paulo;1.368,00 m2
+AGCX11;AGCX11;Ag Planalto Paulista;Av. Indianópolis, 2125;Indianopolis;SP;São Paulo;1.299,00 m2
+AGCX11;AGCX11;Ag Pq. Maria Helena;Av. Ver. João Batista Fitipaldi, 115;Vila Maluf;SP;Suzano;581,00 m2
+AGCX11;AGCX11;Ag Quitauna;Av. dos Autonomistas, 5386;Vila Yara;SP;Osasco;2.250,00 m2
+AGCX11;AGCX11;Ag R. dos Italianos;R. dos Italianos, 609 621 623;Bom Retiro;SP;São Paulo;520,50 m2
+AGCX11;AGCX11;Ag Rec Bandeirantes;Av. das Américas, 15545;Recreio dos Bandeirantes;RJ;Rio de Janeiro;919,00 m2
+AGCX11;AGCX11;Ag Rio Claro;Av. 1, 500;Centro;SP;Rio Claro;542,70 m2
+AGCX11;AGCX11;Ag Santa Cecilia;R. das Palmeiras, 233 (Loja);Vila Buarque;SP;São Paulo;1.205,86 m2
+AGCX11;AGCX11;Ag São Gonçalo;R. Dr. Nilo Peçanha, 125;Centro;RJ;São Gonçalo;1.388,00 m2
+AGCX11;AGCX11;Ag Senador Queiros;Av. Senador Queiroz, 85 a 111;Centro;SP;São Paulo;1.446,96 m2
+AGCX11;AGCX11;Ag Venda Nova;R. Padre Pedro Pinto, 1.580;Venda Nova;MG;Belo Horizonte;2.585,45 m2
+AGCX11;AGCX11;Ag Via Anchieta;Via Anchieta, 1558;Vila Moinho;SP;São Paulo;1.785,00 m2
+AGCX11;AGCX11;Ag Vila Mascote;Av. Santa Catarina, 287;Vila Alexandria;SP;São Paulo;753,36 m2
+ALZR11;ALZR11;Air Liquide;Av. Presidente Wilson, 5874;Vila Carioca;SP;São Paulo;5.008,00 m2
+ALZR11;ALZR11;Atento;Av. Dom Hélder Câmara, 3203;Del Castilho;RJ;Rio de Janeiro;8.178,00 m2
+BBFI11B;BBFI11B;Centro Administrativo do Andaraí;Rua Barão São Francisco, 177;Andaraí;RJ;Rio de Janeiro;40.176,69 m2
+BBFI11B;BBFI11B;Edíficio Sede I - Agência Banco do Brasil;Setor Bancário Sul Q. 1;;DF;Brasília;46.135,00 m2
+BBPO11;BBPO11;Ag. Afonso Pena;Av. Afonso Pena, 2202;Centro;MS;Campo Grande;8.103,28 m2
+BBPO11;BBPO11;Ag. Aldeota;Av. Santos Dumont, 2889;Aldeota;CE;Fortaleza;5.476,78 m2
+BBPO11;BBPO11;Ag. Ana Rosa;Rua Domingos de Moraes, 438;Vila Mariana;SP;São Paulo;1.688,00 m2
+BBPO11;BBPO11;Ag. Araçatuba;Pça. Rui Barbosa, 322;centro;SP;Araçatuba;6.070,59 m2
+BBPO11;BBPO11;Ag. Asa Norte 504;Av. W-3 Qd 504 Asa Norte;;DF;Brasilia;4.593,67 m2
+BBPO11;BBPO11;Ag. Asa Sul 507;Av. W-3 Qd.7 Lt.7, 8 e 9 - Asa Sul 507;;DF;Brasilia;1.757,82 m2
+BBPO11;BBPO11;Ag. Belém Centro;Av. Pres. Vargas, 248;;PA;Belém;10.514,51 m2
+BBPO11;BBPO11;Ag. Belo Horizonte;Rua Rio de Janeiro, 750;Centro;MG;Belo Horizonte;18.909,00 m2
+BBPO11;BBPO11;Ag. Bom Retiro;Rua Julio Conceição, 438;Bom Retiro;SP;São Paulo;2.962,00 m2
+BBPO11;BBPO11;Ag. Bonfim;Av. Gov. Pedro de Toledo, 1099;Bonfim;SP;Campinas;8.170,00 m2
+BBPO11;BBPO11;Ag. Brás;Av. Rangel Pestana, 2128;Brás;SP;São Paulo;4.247,00 m2
+BBPO11;BBPO11;Ag. Brooklin Paulista;Rua Joaquim Nabuco, 246;;SP;São Paulo;1.843,00 m2
+BBPO11;BBPO11;Ag. Campinas;Rua Dr. Costa Aguiar, 626;Centro;SP;Campinas;5.981,84 m2
+BBPO11;BBPO11;Ag. Campos Elíseos;Av. Rio Branco, 1.437;Campos Elíseos;SP;São Paulo;5.991,00 m2
+BBPO11;BBPO11;Ag. Campos Goytacazes;Pça. das 4 Jornadas, 11;Centro;RJ;Campos Goytacazes;7.322,74 m2
+BBPO11;BBPO11;Ag. Carijós;Rua Espírito Santo, 571;Centro;MG;Belo Horizonte;5.407,00 m2
+BBPO11;BBPO11;Ag. Casa Verde;Rua Baroré, 284;Casa Verde;SP;São Paulo;2.268,00 m2
+BBPO11;BBPO11;Ag. Catedral Sorocaba;Rua XV de Novembro, 63/67;centro;SP;Sorocaba;2.089,00 m2
+BBPO11;BBPO11;Ag. Caxias do Sul;Rua Marques do Herval, 1354 - Ed. Satélite;Centro;RS;Caxias do Sul;5.778,75 m2
+BBPO11;BBPO11;Ag. Centro;Rua XV de Novembro, 191;centro;SP;Sorocaba;6.614,50 m2
+BBPO11;BBPO11;Ag. Cinelândia;Av. 13 de Maio, 13;Centro;RJ;RIO DE JANEIRO;1.834,12 m2
+BBPO11;BBPO11;Ag. Conjunto Nacional;SDN Conj. A Lj.C-03 - 2º pavto.;;DF;Brasilia;1.207,40 m2
+BBPO11;BBPO11;Ag. Duque de Caxias;Av. Presidente Kennedy, 1461;Centro;RJ;Duque de Caxias;3.535,61 m2
+BBPO11;BBPO11;Ag. Florianópolis;Pça. XV de Novembro 321;Centro;SC;Florianópolis;6.788,73 m2
+BBPO11;BBPO11;Ag. Freguesia do Ó;Av. Santa Marina, 2.618;Vila Albertina;SP;São Paulo;2.259,00 m2
+BBPO11;BBPO11;Ag. General Valadão;Pça. General Valadão, 377;Centro;SE;Aracaju;6.077,92 m2
+BBPO11;BBPO11;Ag. Ipiranga;Rua Bom Pastor, 153/169;Ipiranga;SP;São Paulo;7.007,00 m2
+BBPO11;BBPO11;Ag. Jacarepaguá;Av.Geremário Dantas, 78;Tanque;RJ;RIO DE JANEIRO;1.300,96 m2
+BBPO11;BBPO11;Ag. Juiz de Fora;Rua Halfeld, 770;Centro;MG;Juiz Fora;6.587,20 m2
+BBPO11;BBPO11;Ag. Leblon;Av.Bartolomeu Mitre, 438 A;Leblon;RJ;RIO DE JANEIRO;1.373,42 m2
+BBPO11;BBPO11;Ag. Manaus;Rua Guilherme Moreira, 315;Centro;AM;Manaus;9.269,63 m2
+BBPO11;BBPO11;Ag. Maringá;Av. Duque de Caxias, 448;Centro;PR;Maringa;7.623,36 m2
+BBPO11;BBPO11;Ag. Moema;Al. dos Jurupis, 1.156;Indianópolis;SP;São Paulo;2.353,00 m2
+BBPO11;BBPO11;Ag. Niterói;Av. Ernani Amaral Peixoto, 347;Centro;RJ;Niteroi;4.431,34 m2
+BBPO11;BBPO11;Ag. N. Sra. da Lapa;Rua N. Sra. da Lapa, 281;Lapa;SP;São Paulo;3.878,31 m2
+BBPO11;BBPO11;Ag. Paraíso;Rua Bernardino de Campos, 250;;SP;São Paulo;1.447,00 m2
+BBPO11;BBPO11;Ag. Passo Fundo;Rua Bento Gonçalves, 516;Centro;RS;Passo Fundo;506,00 m2
+BBPO11;BBPO11;Ag. Pça. da Árvore;Av. Jabaquara, 424 - Pça. da Árvore;Mirandópolis;SP;São Paulo;2.506,37 m2
+BBPO11;BBPO11;Ag. Pça. Rui Barbosa;Pça. Rui Barbosa, 55;;SP;Bauru;4.085,00 m2
+BBPO11;BBPO11;Ag. Pça. XV Novembro BESC;Pça. XV de Novembro 321;Centro;SC;Florianópolis;3.663,99 m2
+BBPO11;BBPO11;Ag. Penha de Franca;Av. Penha de França, 549;Penha de França;SP;São Paulo;2.312,10 m2
+BBPO11;BBPO11;Ag. Pinheiros;Rua Pinheiros, 1.492;Pinheiros;SP;São Paulo;2.375,00 m2
+BBPO11;BBPO11;Ag. Ponta Grossa;Rua Augusto Ribas, 555;Centro;PR;Ponta Grossa;7.562,77 m2
+BBPO11;BBPO11;Ag. Ribeirão Preto;Rua Duque de Caxias, 725;Centro;SP;Ribeirão Preto;3.642,79 m2
+BBPO11;BBPO11;Ag. Santana;Rua Voluntários da Pátria, 1.769;Santana;SP;São Paulo;2.061,00 m2
+BBPO11;BBPO11;Ag. Santo Amaro Paulista;Rua Paulo Eiró, 471;Santo Amaro;SP;São Paulo;4.879,00 m2
+BBPO11;BBPO11;Ag. São Caetano do Sul;Pça. Cardeal Arcoverde, 52;centro;SP;São Caetano do Sul;3.733,00 m2
+BBPO11;BBPO11;Ag. São José dos Campos;Av. Doutor Nelson D'Ávila, 149;centro;SP;São José dos Campos ;6.501,15 m2
+BBPO11;BBPO11;Ag. São José Rio Preto ;Rua Voluntários de São Paulo, 2975;Centro;SP;São José do Rio Preto;3.042,94 m2
+BBPO11;BBPO11;Ag. Tamoios;Rua Tamoios, 731;Centro;MG;Belo Horizonte;14.829,70 m2
+BBPO11;BBPO11;Ag. Tijuca;Rua Conde de Bonfim, 369 A;Tijuca;RJ;RIO DE JANEIRO;1.291,87 m2
+BBPO11;BBPO11;Ag. Toledo;Rua 7 de Setembro, 1209;Centro;PR;Toledo;4.696,00 m2
+BBPO11;BBPO11;Ag. Uberlândia;Av. Afonso Pena, 745;Centro;MG;Uberlândia;6.241,00 m2
+BBPO11;BBPO11;Ag. Vila Carrão;Av. Conselheiro Carrão, 2411;Vila Carrao;SP;São Paulo;2.538,00 m2
+BBPO11;BBPO11;Ag. Zona Sul;Av. N. Senhora de Copacabana, 594;Copacabana;RJ;RIO DE JANEIRO;2.062,03 m2
+BBPO11;BBPO11;CSL Belo Horizonte;Rua da Bahia, 2.500;Lourdes;MG;Belo Horizonte;14.176,09 m2
+BBPO11;BBPO11;CSL Brasília;Av. Goiás, 980 - QD. 14;Centro;GO;Goiânia;11.133,35 m2
+BBPO11;BBPO11;CSL Curitiba;Pça. Tiradentes, 410;Centro;PR;Curitiba;14.619,73 m2
+BBPO11;BBPO11;CSL São Paulo;Rua Líbero Badaró, 568 e Av. São João, 32;centro;SP;São Paulo;3.662,50 m2
+BBPO11;BBPO11;CSL São Paulo;Rua Líbero Badaró, 582 e Rua São Bento, 483;Centro;SP;São Paulo;1.436,50 m2
+BBPO11;BBPO11;Ed. Sede III;Qd 01 Bloco G Lote 32-SBS;;DF;Brasilia;46.054,40 m2
+BBPO11;BBPO11;PSO Piracicaba ;Pça. José Bonifácio, 945;Centro;SP;Piracicaba;5.122,37 m2
+BBPO11;BBPO11;Super VAR e GOV MT;Rua Felinto Muller, 2104;Quilombo;MT;Cuiabá;3.347,98 m2
+BBPO11;BBPO11;Super VAR e GOV RS;Rua Honório Silveira Dias, 1830;Higienopolis;RS;Porto Alegre;4.280,00 m2
+BBRC11;BBRC11;Ag. Av. Francisco Morato;Av. Prof. Francisco Morato, 2004;Butantã;SP;São Paulo;893,23 m2
+BBRC11;BBRC11;Ag. Av. Santo Amaro;Av. Santo Amaro, 2163;Brooklin Paulista;SP;São Paulo;1.185,27 m2
+BBRC11;BBRC11;Ag. Demarchi;Av. Maria Servidei Demarchi, 1662;Demarchi;SP;São Bernardo do Campo;691,63 m2
+BBRC11;BBRC11;Ag. Estilo Av. Portugal;Av. Portugal, 519;Centro;SP;Santo André;657,94 m2
+BBRC11;BBRC11;Ag. Estilo Berrini;Av. Eng. Luis Carlos Berrini, 559;Itaim Bibi;SP;São Paulo;787,53 m2
+BBRC11;BBRC11;Ag. Estilo Brasil;Av. Brasil, 418;Jardins;SP;São Paulo;623,55 m2
+BBRC11;BBRC11;Ag. Estilo Butantã;Av. Prof. Francisco Morato, 1214;Butantã;SP;São Paulo;741,56 m2
+BBRC11;BBRC11;Ag. Estilo Cambuí;R. Coronel Quirino , 644;Centro;SP;Campinas;748,68 m2
+BBRC11;BBRC11;Ag. Estilo Estados Unidos;R. Estados Unidos, 1931;Jardim America;SP;São Paulo;582,92 m2
+BBRC11;BBRC11;Ag. Estilo Indianópolis;Av. Indianópolis, 546;Indianópolis;SP;São Paulo;674,39 m2
+BBRC11;BBRC11;Ag. Estilo Joaquim Floriano;R. Joaquim Floriano, 666;Itaim Bibi;SP;São Paulo;683,97 m2
+BBRC11;BBRC11;Ag. Estilo Nova Faria Lima;Al. Gabriel Monteiro da Silva, 2032;Jardim America;SP;São Paulo;601,63 m2
+BBRC11;BBRC11;Ag. Estilo Santo Amaro;R. Marechal Deodoro, 440;Santo Amaro;SP;São Paulo;592,74 m2
+BBRC11;BBRC11;Ag. Estilo Vila Esperança;Av. Amador Bueno da Veiga, 1516;Penha de Franca;SP;São Paulo;583,13 m2
+BBRC11;BBRC11;Ag. Imperatriz Leopoldina;R. Guaipá, 1389;Vila Leopoldina;SP;São Paulo;1.003,04 m2
+BBRC11;BBRC11;Ag. Paes de Barros;Av. Paes de Barros, 2621;Mooca;SP;São Paulo;819,72 m2
+BBRC11;BBRC11;Ag. Parque da Aclimação;R. Pires da Mota, 488;Liberdade;SP;São Paulo;839,35 m2
+BBRC11;BBRC11;Ag. Pedro Pinho;Av. Gen. Pedro Pinho, 641;Pestana;SP;Osasco;953,20 m2
+BBRC11;BBRC11;Ag. Pq. Boturussu;Av. São Miguel, 2328;Vila Marieta;SP;São Paulo;775,41 m2
+BBRC11;BBRC11;Ag. Raposo;Av. Eng. Heitor Antônio Eiras Garcia, 3963;;SP;São Paulo;879,88 m2
+BBVJ11;BBVJ11;Cidade Jardim Continental Tower;Av. Magalhães de Castro, 4800;Jardim Panorama do Oeste;SP;São Paulo;22.465,00 m2
+BMLC11B;BMLC11B;Brascan Century Plaza;Rua Joaquim Floriano, nº 466;Itaim Bibi;SP;São Paulo;1.453,18 m2
+BMLC11B;BMLC11B;Torre Rio Sul;Rua  Lauro  Muller,  nº 116;Botafogo;RJ;Rio de Janeiro;5.837,16 m2
+BNFS11;BNFS11;Ag Arroio do Sal;Av. Assis Brasil, 659;Centro;RS;Arroio do Sal;421,54 m2
+BNFS11;BNFS11;Ag Belém Novo;Av. Cecilio Monza, 10827;Belém Novo;RS;Porto Alegre;558,70 m2
+BNFS11;BNFS11;Ag Camboim;Av. Joao Pereira de Vargas,1460;Camboim;RS;Sapucaia do Sul;418,83 m2
+BNFS11;BNFS11;Ag Campina;Rua Henrique Bier,1125;Campina;RS;São Leopoldo;477,94 m2
+BNFS11;BNFS11;Ag Cassino;Av. Atlantica, 537;Cassino;RS;Rio Grande;403,45 m2
+BNFS11;BNFS11;Ag Cruz Alta;Av. Venancio Aires, 1745;Centro;RS;Cruz Alta;1.069,66 m2
+BNFS11;BNFS11;Ag General Câmara;Rua Jose Do Patrocinio, 165;General Câmara;RS;General Câmara;373,20 m2
+BNFS11;BNFS11;Ag Padre Claret;Av. Padre Claret 1104;Centro;RS;Esteio;475,70 m2
+BNFS11;BNFS11;Ag Parobé;Rua Odorico Mosmann,257;Centro;RS;Parobe;513,03 m2
+BNFS11;BNFS11;Ag Quarai;Rua Baltazar Brum, 320;;RS;Quarai;475,70 m2
+BNFS11;BNFS11;Ag Santa Rosa;Av. Flores d a Cunha 681;Cruzeiro;RS;Santa Rosa;503,67 m2
+BNFS11;BNFS11;Ag São Gabriel;Av. Julio de Castillhos,303;Centro;RS;São Gabriel;465,43 m2
+BNFS11;BNFS11;Ag Sapiranga;Av. 20 de Setembro, 3755;Centro;RS;Sapiranga;922,02 m2
+BNFS11;BNFS11;Ag Scharlau;Av. Tomaz Edison, 2615;Scharlau;RS;São Leopoldo;533,70 m2
+BNFS11;BNFS11;Ag Tancredo Neves;Av. N. Sra. das Dores, 322;Nossa Senhora das Dores;RS;Santa Maria;498,30 m2
+BNFS11;BNFS11;Ag Taquari;Rua Osvaldo Aranha, 2396;Centro;RS;Taquari;770,82 m2
+BNFS11;BNFS11;Ag Vacaria;Rua Moreira Paz 591;Nossa Senhora de Fatima;RS;Vacaria;916,54 m2
+BNFS11;BNFS11; Ag Vila Ipiranga;Av do Forte, 1128;Vila Ipiranga;RS;Porto Alegre;495,20 m2
+BRCR11;BRCR11;Brazilian FC;Av. Paulista, 1374;Bela Vista;SP;São Paulo;42.612,00 m2
+BRCR11;BRCR11;CENESP;Av. Maria Coelho Aguiar, 215;Jardim São Luís;SP;São Paulo;64.480,00 m2
+BRCR11;BRCR11;Centro Empresarial Transatlântico;Rua Verbo Divino 1488;Chácara Santo Antônio;SP;São Paulo;4.209,44 m2
+BRCR11;BRCR11;Edifício Burity;Av. Indianópolis 3096,;Indianópolis;SP;São Paulo;10.549,53 m2
+BRCR11;BRCR11;Edifício Cargill;Av. Morumbi 8234;Santo Amaro;SP;São Paulo;10.625,81 m2
+BRCR11;BRCR11;Edifício Eldorado Business Tower;Av. Das Nações Unidas 8501;Várzea de Baixo;SP;São Paulo;45.400,28 m2
+BRCR11;BRCR11;Edifício Volkswagen;Rua Volkswagen 291;Jabaquara;SP;São Paulo;12.560,00 m2
+BRCR11;BRCR11;Flamengo Park Towers;Praia do Flamengo 66;Flamengo;RJ;Rio de Janeiro;7.670,00 m2
+BRCR11;BRCR11;Montreal;Av. Das Américas 4200;Barra da Tijuca;RJ;Rio de Janeiro;6.439,00 m2
+BRCR11;BRCR11;Torre Almirante;Av. Almirante Barroso 81;Centro;RJ;Rio de Janeiro;24.881,00 m2
+CBOP11;CBOP11;Torre Jatobá - Castello Branco Office Park;Av. Marcos Penteado de Ulhoa Rodrigues, 939;Tamboré;SP;Barueri;14.372,30 m2
+CEOC11;CEOC11;Edifício Corporate Executive Offices (CEO);Avenida João Cabral de Mello Neto, 850;Barra da Tijuca;RJ;Rio de Janeiro;11.942,00 m2
+CTXT11;CTXT11;Centro Têxtil Internacional;Avenida Roberto Zuccolo nº 555;Vila Leopoldina;SP;São Paulo;45.450,00 m2
+CXCE11B;CXCE11B;CEDAE;Av. Pres. Vargas, 2655;Cidade Nova;RJ;Rio de Janeiro;19.938,00 m2
+CXTL11;CXTL11;Aspro;Rod. BR-277 Km 107;Rondinha;PR;Campo Largo;4.577,94 m2
+CXTL11;CXTL11;Atmosfera;Rua Projetada A, 240;Xerém;RJ;Duque de Caxias;7.671,38 m2
+CXTL11;CXTL11;Ferla;Av. Portugal, 1046;Jardim Nova Itapevi;SP;Itapevi;7.225,86 m2
+CXTL11;CXTL11;Schahin;Avenida Lauro Roberto Vasconcelos Fonseca Filho, 200;Vale Encantado;RJ;Macaé;4.714,00 m2
+DOMC11;DOMC11;Domo Corporate;R. José Versolato, 101;Baeta Neves;SP;São Bernardo do Campo;30.600,60 m2
+DRIT11B;DRIT11B;Nações Unidas;Av. Nações Unidas, 20000;Brooklin Novo;SP;São Paulo;947,36 m2
+DRIT11B;DRIT11B;Pedra Grande;Av. Brig. Faria Lima, 1306;Pinheiros;SP;São Paulo;1.576,34 m2
+DRIT11B;DRIT11B;Platinum;Alameda Santos, 787;Bela Vista;SP;São Paulo;623,70 m2
+DRIT11B;DRIT11B;Torre Sul;Rua James Joule, 65;Berrini;SP;São Paulo;865,58 m2
+EDFO11B;EDFO11B;Edifício Ourinvest;Av. Paulista, 1728;Bela Vista;SP;São Paulo;5.029,38 m2
+EURO11;EURO11;CDA 1 - Módulos 1/2/3/4;Via Anhanguera, km, 17,25;;SP;São Paulo;22.865,30 m2
+EURO11;EURO11;CDA 2;Rua Jornalista Paulo Zingg, 570;;SP;São Paulo;1.929,40 m2
+EURO11;EURO11;CDA 3;Via Anhanguera, km, 17,25;;SP;São Paulo;1.496,50 m2
+EURO11;EURO11;CDRIO-1;Rua Sargente Aquino, 136;;RJ;Rio de Janeiro;1.995,10 m2
+EURO11;EURO11;CDRIO-2;Rua Comandante Vergueiro Cruz,206;;RJ;Rio de Janeiro;4.409,51 m2
+EURO11;EURO11;Laboratório Teste de Elevadores;Av. Interlagos,4.455;;SP;São Paulo;3.298,00 m2
+FAMB11B;FAMB11B;Edifício Almirante Barroso;Avenida Rio Branco, nº 174;Centro;RJ;Rio de Janeiro;56.429,46 m2
+FCFL11;FCFL11;Insper – Instituto de Ensino e Pesquisa;Rua Quatá, nº 300;Vila Olímpia;SP;São Paulo;30.967,97 m2
+FFCI11;FFCI11;Candelaria Corporate;Rua da Candelária nº 65;Centro;RJ;Rio de Janeiro;1.297,00 m2
+FFCI11;FFCI11;Cetenco Plaza;Avenida Paulista 1842;Cerqueira Cesar;SP;São Paulo;2.135,00 m2
+FFCI11;FFCI11;Continental Square;R. Olimpíadas, 205;Vila Olímpia;SP;São Paulo;6.246,10 m2
+FFCI11;FFCI11;Internacional Rio;Praia do Flamengo nº 154;Flamengo;RJ;Rio de Janeiro;1.480,00 m2
+FFCI11;FFCI11;Jatobá;Rua Surubim, 373;Brooklin Novo;SP;São Paulo;1.520,00 m2
+FFCI11;FFCI11;JK Financial Center;Av. Juscelino Kubitschek, 510;Itaim Bibi;SP;São Paulo;5.155,00 m2
+FFCI11;FFCI11;Parque Cultural Paulista;Avenida Paulista, 37;;SP;São Paulo;2.031,00 m2
+FFCI11;FFCI11;Parque Paulista;Alameda Santos, 1940;Cerqueira César;SP;São Paulo;1.151,00 m2
+FFCI11;FFCI11;Parque Santos;Alameda Santos, 1163;Cerqueira César;SP;São Paulo;5.135,00 m2
+FIGS11;FIGS11;Parque Shopping Maia;Av. Bartolomeu de Carlos, 230;Jardim Flor da Montanha;SP;Guarulhos;31.711,00 m2
+FIGS11;FIGS11;Shopping Bonsucesso;Estr. Juscelino Kubtischek de Oliveira, 5308;Jd.Albertina;SP;Guarulhos;24.293,00 m2
+FIIB11;FIIB11;Perini Business Park;R. Dona Francisca, 8300;Distrito Industrial;SC;Joinville;102.601,71 m2
+FIIP11B;FIIP11B;Ambev;R. Alfredo Pinto, 1405;Afonso Pena;PR;São José dos Pinhais;10.376,55 m2
+FIIP11B;FIIP11B;Barry Callebaut;Rod. Ilhéus-Uruçuca, S/N;Iguape;BA;Ilhéus;9.917,95 m2
+FIIP11B;FIIP11B;C&A;Rua Domingos Agostim, 91;Tatuapé;SP;São Paulo;4.103,94 m2
+FIIP11B;FIIP11B;Danfoss;R. Américo Vespúcio, 85;Vila Menck;SP;Osasco;11.108,00 m2
+FIIP11B;FIIP11B;Lojas Leader;R. Nelson Ramos, S/N;Centro;RJ;Nova Iguaçu;3.076,06 m2
+FIIP11B;FIIP11B;Magazine Luiza;R. Ronat Valter Sodré, 2672;Santa Paula;PR;Ibiporã;23.121,59 m2
+FIIP11B;FIIP11B;Telhanorte;Av. General David Sarnoff, 4840;Cidade Industrial;MG;Contagem;7.328,00 m2
+FIVN11;FIVN11;Shopping Taboão Plaza Outlet;Avenida Vida Nova, 28;Taboão da Serra;SP;São Paulo;66.498,00 m2
+FLMA11;FLMA11;Continental Square;R. Olimpíadas, 205;Vila Olímpia;SP;São Paulo;22.921,74 m2
+FLRP11;FLRP11;Florianópolis Shopping Center;Rodovia Virgílio Várzea, nº 587, área 2;Saco Grande;SC;Florianópolis;29.633,47 m2
+FMOF11;FMOF11;Edifício Memorial Office;Rua Júlio Gonzáles, 132;Barra Funda;SP;São Paulo;13.105,00 m2
+FPAB11;FPAB11;Torre New York e Los Angeles;Av. Francisco Matarazzo, 1.500;Barra Funda;SP;São Paulo;35.810,72 m2
+FVPQ11;FVPQ11;Via Parque Shopping;Av. Ayrton Senna, 3000;Barra da Tijuca;RJ;Rio de Janeiro;57.239,00 m2
+GGRC11;GGRC11;AETHRA;Avenida Rui Barbosa nº 4.563;Iná;PR;São José dos Pinhais;21.069,00 m2
+GGRC11;GGRC11;AMBEV;Acesso pelo KM 117,5 Rodovia BR 101;Espinheiros;SC;Itajaí;8.532,54 m2
+GGRC11;GGRC11;AMBEV - PELOTAS;AVENIDA PRESIDENTE JOAO BELCHIOR MARQUES GOULART, 9500;Fragata;RS;Pelotas;9.912,60 m2
+GGRC11;GGRC11;CAMARGO EMBALAGENS;Rua Álvaro Camerin, nº 51;Distrito Industrial;SP;Tietê;13.306,13 m2
+GGRC11;GGRC11;CEPALGO EMBALAGENS FLEXÍVEIS LTDA;Rodovia BR 153, s/n, quadra AREA, lote 00C, anexo A;Jardim Paraíso I;GO;Aparecida de Goiânia;10.988,35 m2
+GGRC11;GGRC11;COPOBRÁS;Avenida Moita Bonita, 266;Pimentas;SP;Guarulhos;11.502,42 m2
+GGRC11;GGRC11;COPOBRÁS IND. E COMÉRCIO DE EMBALAGENS LTDA;R. Maria Rufino dos Santos Medeiros, 201;Distrito Industrial;PB;João Pessoa;13.306,13 m2
+GGRC11;GGRC11;HERING E SANTA CRUZ;BR 153, 3469;Zona Urbana;GO;Anápolis;78.850,50 m2
+GGRC11;GGRC11;JEFER PRODUTOS SIDERÚRGICOS - EIRELI;Alameda das Aroeiras, 195;Casa Amarela;MG;Betim;21.060,90 m2
+GGRC11;GGRC11;MOINHO - CASCAVEL;Rodovia BR 467, Km 109,3;Jardim Canadá;PR;Cascavel;5.680,00 m2
+GGRC11;GGRC11;MOINHO – SÃO MIGUEL DO IGUAÇU;BR-277, 690;Parque Industrial;PR;São Miguel do Iguaçu;7.164,00 m2
+GGRC11;GGRC11;NISSEI;Rodovia Contorno Norte, Nº 305;Roça Grande;PR;Colombo;15.351,54 m2
+GGRC11;GGRC11;TODIMO;Rodovia Palmiro Paes de Barros, 290;Vista Alegre;MT;Cuiabá;25.125,76 m2
+GRLV11;GRLV11;GR Louveira;Rua Atílio Biscuola, 1831;Terra Nobre;SP;Louveira;55.202,00 m2
+HGBS11;HGBS11;Goiabeiras Shopping Center;Av. José Monteiro de Figueiredo, 500;Duque de Caxias;MT;Cuiabá;26.292,28 m2
+HGBS11;HGBS11;I Fashion Outlet – Novo Hamburgo;Rodovia BR 116 Km 239;Rio Branco;RS;Novo Hamburgo;20.440,00 m2
+HGBS11;HGBS11;Mooca Plaza Shopping;R. Cap. Pacheco e Chaves, 313;Mooca;SP;São Paulo;41.914,53 m2
+HGBS11;HGBS11;São Bernardo Plaza Shopping;Av. Rotary, 624;Centro;SP;São Bernardo do Campo;42.629,30 m2
+HGBS11;HGBS11;Shopping Center Penha;R. Dr. João Ribeiro, 304;Penha de Franca;SP;São Paulo;29.641,92 m2
+HGBS11;HGBS11;Shopping Parque Dom Pedro;Av. Guilherme Campos, 500;Jardim Santa Genebra;SP;Campinas;127.300,00 m2
+HGBS11;HGBS11;Tivoli Shopping Center;Av. St Bárbara, 777;Vila Mollon IV;SP;Santa Bárbara d’Oeste;23.877,91 m2
+HGBS11;HGBS11;Via Parque Shopping;Av. Ayrton Senna, 3000;Barra da Tijuca;RJ;Rio de Janeiro;57.200,00 m2
+HGJH11;HGJH11;Edifício Metropolitan;Rua Amauri, 255;Faria Lima;SP;São Paulo;10.215,00 m2
+HGJH11;HGJH11;Edifício Platinum;Rua Jerônimo da Veiga, 384;Itaim Bibi;SP;São Paulo;2.398,00 m2
+HGLG11;HGLG11;Air Liquide Campinas;Rua Ronald Cladstone Negri, 557;Nova Aparecida;SP;Campinas;1.723,00 m2
+HGLG11;HGLG11;Brascabos Rio Claro;Avenida Brasil, 3.464;Distrito Industrial;SP;Rio Claro;11.492,00 m2
+HGLG11;HGLG11;Cremer Blumenau;Rua Iguaçu, 291;Itoupava Seca;SC;Blumenau;65.825,00 m2
+HGLG11;HGLG11;Ed. Albatroz – Gaia Ar;Rod . Dom Pedro I, Km 90;;SP;Jarinu;20.154,00 m2
+HGLG11;HGLG11;Ed. Onix e Ed. Safira - Centro Empresarial Atibaia;Avenida Tégula, 888;Pte. Alta;SP;Atibaia;11.869,00 m2
+HGLG11;HGLG11;Ed. Os Lusíadas – Barão de Mauá;Rodovia Dom Pedro I, Km 87;;SP;Atibaia;6.232,00 m2
+HGLG11;HGLG11;Gerdau Rio de Janeiro;Estrada do Pedregoso, 900;Campo Grande;RJ;Rio de Janeiro;16.532,00 m2
+HGLG11;HGLG11;Lojas Americanas Uberlândia;BR - 497, Km 1480;Jardim Europa;MG;Uberlândia;89.197,00 m2
+HGLG11;HGLG11;Master Offices;Avenida Guido Caloi, 1.935;Santo Amaro;SP;São Paulo;14.359,00 m2
+HGLG11;HGLG11;Tech Town;Rodovia SP 101, Km 9;;SP;Hortolândia;7.885,00 m2
+HGLG11;HGLG11;Tetra Pak Monte Mor;Rua Tobias Bueno de Oliveira, 701;Chapéu de Sol;SP;Monte Mor;24.696,00 m2
+HGRE11;HGRE11;BB Antônio das Chagas;Rua Antônio das Chagas 1.657;Chácara Santo Antônio;SP;São Paulo;4.259,00 m2
+HGRE11;HGRE11;Berrini One;Av. Engenheiro Luís Carlos Berrini, 105;Brooklin Paulista;SP;São Paulo;8.657,00 m2
+HGRE11;HGRE11;Centro Empresarial Cidade Nova - Teleporto;Av. Pres. Vargas, 3.131;Cidade Nova;RJ;Rio de Janeiro;2.300,00 m2
+HGRE11;HGRE11;Centro Empresarial de São Paulo;Av. Maria Coelho Aguiar, 215;Santo Amaro;SP;São Paulo;2.844,00 m2
+HGRE11;HGRE11;Centro Empresarial Dom Pedro;Rodovia D. Pedro I, Km 69;;SP;Atibaia;19.558,00 m2
+HGRE11;HGRE11;Centro Empresarial Guaíba;Av. Dolores Alcaraz Caldas, 90;;RS;Porto Alegre;10.660,00 m2
+HGRE11;HGRE11;Centro Empresarial Mario Garnero;Avenida Brigadeiro Faria Lima, 1.485;Faria Lima;SP;São Paulo;5.116,00 m2
+HGRE11;HGRE11;Contax Alegria;Rua Alegria, 96;Brás;SP;São Paulo;19.050,00 m2
+HGRE11;HGRE11;Ed. Brasilinterpart;Avenida das Nações Unidas, 11.633;Berrini;SP;São Paulo;890,00 m2
+HGRE11;HGRE11;Ed. Delta Plaza;Rua Cincinato Braga, 340;Paulista;SP;São Paulo;3.856,00 m2
+HGRE11;HGRE11;Ed. Faria Lima;Avenida Brigadeiro Faria Lima, 1.355;Faria Lima;SP;São Paulo;4.440,00 m2
+HGRE11;HGRE11;Ed. Jatobá CBOP;Av. Marcos Penteado Ulhôa Rodrigues, 940;;SP;Barueri;18.289,00 m2
+HGRE11;HGRE11;Ed. Park Tower - Torre II;Av. Magalhães de Castro 4.800;Morumbi;SP;São Paulo;1.464,00 m2
+HGRE11;HGRE11;Ed. Paulista Star;Alameda Campinas, 1.070;Paulista;SP;São Paulo;10.593,00 m2
+HGRE11;HGRE11;Ed. Roberto Sampaio Ferreira;Rua Flórida, 1.595;Berrini;SP;São Paulo;3.520,00 m2
+HGRE11;HGRE11;Ed. Verbo Divino;Rua Verbo Divino, 1.661;Chácara Santo Antônio;SP;São Paulo;13.980,00 m2
+HGRE11;HGRE11;Empresarial Transatlântico;Rua Verbo Divino, 1.488;Chácara Santo Antônio;SP;São Paulo;1.580,00 m2
+HGRE11;HGRE11;GVT Curitiba;Rua Francisco Nunes, 1.395;;PR;Curitiba;7.700,00 m2
+HGRE11;HGRE11;Sercom Taboão;Rua José Mari, 80;;SP;Taboão da Serra;16.488,00 m2
+HGRE11;HGRE11;Torre Rio Sul;Rua Lauro Muller, 116;Botafogo;RJ;Rio de Janeiro;1.677,00 m2
+HGRU11;HGRU11;IBMEC BARRA;Av. Armando Lombardi, 940;Barra da Tijuca;RJ;Rio de Janeiro;8.040,00 m2
+HMOC11;HMOC11;Condomínio do Shopping Praça da Moça;Rua Manoel da Nobrega, 712;Centro;SP;Diadema;29.784,27 m2
+JSRE11;JSRE11;Ed. Praia de Botafogo;Praia de Botafogo, 440;Botafogo;RJ;Rio de Janeiro;717,00 m2
+JSRE11;JSRE11;WTNU III;Rua Eugênio de Medeiros , 303;Pinheiros;SP;São Paulo;15.867,00 m2
+KNRI11;KNRI11;Athenas;Rua Doutor Fernandes Coelho, 64;Pinheiros;SP;São Paulo;6.230,00 m2
+KNRI11;KNRI11;Bela Paulista;Avenida Paulista, 2.421;Consolação;SP;São Paulo;6.521,00 m2
+KNRI11;KNRI11;Botafogo Trade Center;Avenida Prof. Álvaro Rodrigues, 352;Botafogo;RJ;Rio de Janeiro;8.083,00 m2
+KNRI11;KNRI11;Buenos Aires Corporate;Rua Buenos Aires, 15;Centro;RJ;Rio de Janeiro;6.855,00 m2
+KNRI11;KNRI11;Centro de Distribuição Bandeirantes ;Rodovia dos Bandeirantes, Km 68;Poste;SP;Louveira;99.279,00 m2
+KNRI11;KNRI11;Centro de Distribuição Itaqua;Rua do Níquel, 205;;SP;Itaquaquecetuba;30.698,00 m2
+KNRI11;KNRI11;Centro de Distribuição Mogi das Cruzes;Rodovia Pedro Eroles, Km 41,5;Taboão;SP;Mogi das Cruzes;69.113,25 m2
+KNRI11;KNRI11;Centro de Distribuição Pouso Alegre;Rodovia Fernão Dias, Km 863;Algodão;MG;Pouso Alegre;87.750,00 m2
+KNRI11;KNRI11;Centro de Distribuição Santa Cruz ;Estrada da Lama Preta, s/n;Santa Cruz;RJ;Rio de Janeiro;49.306,00 m2
+KNRI11;KNRI11;Ed. Boulevard Corporate Tower;Avenida dos Andradas 3000;Santa Efigênia;MG;Belo Horizonte;20.461,00 m2
+KNRI11;KNRI11;Edifício Lagoa Corporate;Rua Humaitá, 275;Humaitá;RJ;Rio de Janeiro;11.687,00 m2
+KNRI11;KNRI11;Edifício Madison;Rua Gomes de Carvalho, 1.195;Vila Olímpia;SP;São Paulo;8.432,00 m2
+KNRI11;KNRI11;Global Jundiaí;Avenida Caminho de Goias, 100;Jardim São Bento;SP;Jundiaí;41.468,00 m2
+KNRI11;KNRI11;Joaquim Floriano;Rua Joaquim Floriano, 913;Itaim;SP;São Paulo;3.197,00 m2
+KNRI11;KNRI11;Jundiaí Industrial Park;Rodovia Hermenegildo Tonolli, km 02;Fazenda Grande;SP;Jundiaí;75.975,60 m2
+KNRI11;KNRI11;PIB Sumaré;Rua Floravante Mancino, 1560;Chácara Monte Alegre;SP;Sumaré;13.600,00 m2
+LVBI11;LVBI11;Galpão - Extrema;Rodovia Fernão Dias, KM 947,5;;MG;Extrema;97.822,22 m2
+LVBI11;LVBI11;Galpão - Guarulhos;Rua Manoel Borba Gato 100;Vila Saiago;SP;Guarulhos;24.415,99 m2
+MALL11;MALL11;Maceio Shopping;Av. Gustavo Paiva, 2990;Mangabeiras;AL;Maceió;76.310,81 m2
+MBRF11;MBRF11;Agência Rio Branco;Avenida Rio Branco;Centro;RJ;Rio de Janeiro;748,00 m2
+MBRF11;MBRF11;Edifício Sede;Rua Rio de Janeiro, 654;Centro;MG;Belo Horizonte;16.468,00 m2
+MFII11;MFII11;Dahma Fit;Fazenda Capão Alto;;MG;Uberaba;m2
+MFII11;MFII11;Dona Amélia;Gleba 47 Qt 30.027;;SP;Campinas;m2
+MFII11;MFII11;Golden Boituva;Estrada Municipal BTV 250;;SP;Boituva;m2
+MFII11;MFII11;Jardins da Serra;Av Padre José de Holanda do Vale, 600;Luzardo Viana;CE;Maracanaú;m2
+MFII11;MFII11;MaxHaus;Rua Castro Alves 83;Embaré;SP;Santos;m2
+MFII11;MFII11;Residencial Campo Verde;Bairro da Geada;;SP;Iracemópolis;m2
+MFII11;MFII11;Terras da Estância;Av Luiz Greco 500;Vila Monte Alegre IV;SP;Paulínia;m2
+MFII11;MFII11;Villa Bazzano;Rua João Ramalho 40;Barra da Lagoa;SP;Ubatuba;m2
+MFII11;MFII11;Way Parque das Nações;Av Estados unidos 92;Parque das Nações;SP;Santo André;m2
+NVHO11;NVHO11;Hospital São Luiz;Rua Doutor Alceu de Campos Rodrigues, 95;Itaim Bibi;SP;São Paulo;30.359,18 m2
+ONEF11;ONEF11;The One;Rua Ministro Jesuíno Cardoso, 454;Itaim Bibi;SP;São Paulo;6.015,00 m2
+PABY11;PABY11;Condomínio Villaggio Panamby;R. Itapaiúna, 1800;Vila Andrade;SP;São Paulo;m2
+PQDP11;PQDP11;Shopping Parque D. Pedro;Avenida Guilherme Campos, nº 500;Santa Genebra;SP;Campinas;127.000,00 m2
+PRSV11;PRSV11;Edifício Torre Boa Vista;Avenida Presidente Vargas, nº 850;Centro;RJ;Rio de Janeiro;10.922,00 m2
+PRSV11;PRSV11;Edifício Torre Vargas;Avenida Presidente Vargas, nº 914;Centro;RJ;Rio de Janeiro;6.435,00 m2
+RBBV11;RBBV11;Fazenda Boa Vista;Rodovia Presidente Castelo Branco, Km 102,5, s/n;Indaiatuba;SP;Porto Feliz;m2
+RBGS11;RBGS11;Parque Shopping Sulacap;Av. Marechal Fontenele, 3545;Jardim Sulacap;RJ;Rio de Janeiro;28.755,71 m2
+RBRD11;RBRD11;Ambev;Rodovia 497, Km 2 , Anel Viário Ayrton Senna, S/n;Luizote de Freitas;MG;Uberlândia;m2
+RBRD11;RBRD11;Ampla;R. Dr. Nilo Peçanha, 546;Centro;RJ;São Gonçalo;m2
+RBRD11;RBRD11;Leader;R. do Catete, 194E / 196;Glória;RJ;Rio de Janeiro;m2
+RBRD11;RBRD11;Leader;R. João Pessoa, 86;Cidade Alta;RN;Natal;m2
+RDES11;RDES11;Ed. Empr. Center I;R. Padre Carapuceiro, 733;;PE;Recife;4.248,00 m2
+RDES11;RDES11;Ed. Empr. Center II;R. Antonio Lumack de Monte, 96;;PE;Recife;4.035,00 m2
+RDES11;RDES11;Ed. Suarez Trade;Av. Tancredo Neves, 450;;BA;Salvador;4.620,00 m2
+RDES11;RDES11;Ed. Tenente Negrão;R. Tenente Negrão, 166;;SP;São Paulo;4.052,00 m2
+RNGO11;RNGO11;Edifício Demini;Alameda Rio Negro, 585;Alphaville;SP;Barueri;16.008,00 m2
+RNGO11;RNGO11;Edifício Padauiri;Alameda Rio Negro, 585;Alphaville;SP;Barueri;15.964,00 m2
+RNGO11;RNGO11;Lojas;Alameda Rio Negro, 585;Alphaville;SP;Barueri;1.719,00 m2
+SAAG11;SAAG11;Avenida Paulista;Avenida Paulista , nº 436;Bela Vista;SP;São Paulo;2.857,24 m2
+SAAG11;SAAG11;Barão de Jundiaí;Rua Barão de Jundiaí , nº 884;Centro;SP;Jundiaí;6.438,52 m2
+SAAG11;SAAG11;Belo Horizonte I;Av . João Pinheiro , nº 500;Centro;MG;Belo Horizonte;4.192,00 m2
+SAAG11;SAAG11;Belo Horizonte II;Praça Tiradentes , nº 85;Centro;MG;Belo Horizonte;2.156,00 m2
+SAAG11;SAAG11;Berrini;Av . Eng . Luiz Carlos Berrini , nº 1307;Brooklin Paulista;SP;São Paulo;1.873,73 m2
+SAAG11;SAAG11;Candelária;Rua Buenos Aires , nº 48/48 - A;Centro;RJ;Rio de Janeiro;1.040,00 m2
+SAAG11;SAAG11;Cons . Rodrigues Alves;Rua Cons . Rodrigues Alves , nº 53;Vila Mariana;SP;São Paulo;1.093,00 m2
+SAAG11;SAAG11;Duque de Caxias;Rua Duque de Caxias , nº 200;Campo Eliseos;SP;São Paulo;2.107,31 m2
+SAAG11;SAAG11;Floriano Peixoto;Rua Floriano Peixoto , nº 915;Centro;CE;Fortaleza;2.220,00 m2
+SAAG11;SAAG11;Juiz de Fora;Avenida Barão do Rio Branco , nº 2.519;Centro;MG;Juiz de Fora;2.918,00 m2
+SAAG11;SAAG11;Liberdade;Avenida da Liberdade , nº 151;São Paulo/SP;SP;São Paulo;5.001,70 m2
+SAAG11;SAAG11;Marechal Deodoro;Rua Marechal Deodoro , nº 460;Centro;SP;São Bernando do Campo;1.615,46 m2
+SAAG11;SAAG11;Monções;Avenida Santo Amaro , nº 3.330;Brooklin Paulista;SP;São Paulo;882,00 m2
+SAAG11;SAAG11;Monsenhor Celso;Rua Monsenhor Celso , nº 154;Centro;PR;Paraná;2.182,85 m2
+SAAG11;SAAG11;Nova Paulista;Av . Paulista , nº 726;Bela Vista;SP;São Paulo;693,32 m2
+SAAG11;SAAG11;Olivetti - Paulista;Avenida Paulista , nº 447;Paraíso;SP;São Paulo;1.010,00 m2
+SAAG11;SAAG11;Ouvidor;Avenida Rio Branco , nº 115;Centro;RJ;Rio de Janeiro;1.240,00 m2
+SAAG11;SAAG11;Pedro I;Rua Pedro Primeiro , nº 373;Centro;CE;Fortaleza;2.511,00 m2
+SAAG11;SAAG11;Porto Alegre;Rua Sete de Setembro nº 1.100;Centro Historico;RS;Porto Alegre;2.106,79 m2
+SAAG11;SAAG11;Praça Pio X;Praça Pio X nº 78/78 - A;Centro;RJ;Rio de Janeiro;1.964,00 m2
+SAAG11;SAAG11;Recife;Rua do Imperador Pedro II , nº 255;Centro;PE;Recife;2.356,94 m2
+SAAG11;SAAG11;Rio - Centro;Rua Quitanda , nº 70;Centro;RJ;Rio de Janeiro;1.928,09 m2
+SAAG11;SAAG11;Santo André;Rua Senador Flaquer , nº 305;Centro;SP;Santo André;6.242,43 m2
+SAAG11;SAAG11;Santos;Praça Visconde de Mauá , nº 20;Centro;SP;Santos;4.505,00 m2
+SAAG11;SAAG11;São Gonçalo - Alcântara;Rua João de Almeida , nº 72;Alcantara;RJ;São Gonçalo;1.089,68 m2
+SAAG11;SAAG11;São Gonçalo - Centro;Rua Dr . Feliciano Sodré , nº 111;Centro;RJ;São Gonçalo;951,00 m2
+SAAG11;SAAG11;São Mateus;Avenida Mateo Bei , nº 3.286;Cidade São Mateus;SP;São Paulo;2.050,00 m2
+SAAG11;SAAG11;Volta Redonda;Rua Doze , nº 239;;RJ;Volta Redonda;2.920,00 m2
+SCPF11;SCPF11;Shopping Center Piedade;Rua Junqueira Ayres, 165;Barris;BA;Salvador;4.578,32 m2
+SDIL11;SDIL11;Multi Modal Duque de Caxias;"R. de Acesso 3, Quadra ""F"", Lt. 1, International Business Park";Jardim Camacho;RJ;Duque de Caxias;44.131,00 m2
+SHPH11;SHPH11;Shopping Pátio Higienópolis;R. Dr. Veiga Filho, 133;Higienópolis;SP;São Paulo;35.500,00 m2
+SPTW11;SPTW11;Imóvel Badaró;R. Líbero Badaró, 633;Centro;SP;São Paulo;19.871,08 m2
+SPTW11;SPTW11;Imóvel Belenzinho;R. Padre Adelino, 550;Quarta Parada;SP;São Paulo;11.911,45 m2
+TBOF11;TBOF11;Tower Bridge Corporate;Avenida Jornalista Roberto Marinho, nº 85;;SP;São Paulo;56.531,55 m2
+THRA11;THRA11;Edifício Thera Corporate;Avenida Engenheiro Luís Carlos Berrini, 105;Brooklin Paulista;SP;São Paulo;10.586,16 m2
+TRNT11;TRNT11;Torre Norte;Avenida das Nações Unidas, nº 12.901;;SP;São Paulo;55.729,63 m2
+TRXL11;TRXL11;Ceratti;Rod. SP 324, Km 79,5;Área Industrial;SP;Vinhedo;13.851,22 m2
+TRXL11;TRXL11;Imóvel Dutra;Estr. Rio D'ouro;Parque Columbia;RJ;Rio de Janeiro;17.243,57 m2
+TRXL11;TRXL11;Imóvel Navegantes;R. Santa Catarina;Nossa Sra. das Gracas;SC;Navegantes;9.793,66 m2
+TRXL11;TRXL11;Imóvel Parque Novo Mundo;R. Srg. Rodoval Cabral Trindade;Parque Novo Mundo;SP;São Paulo;30.804,00 m2
+TRXL11;TRXL11;Itambé;R. Jerônimo Téles Júnior, 54;Vila Pirituba;SP;São Paulo;8.057,75 m2
+TRXL11;TRXL11;Magna;Engenheiro Miguel Melhado Campos;Área Industrial;SP;Vinhedo;10.439,27 m2
+VISC11;VISC11;Center Shopping Rio;Av. Geremário Dantas, 404;Jacarepagua;RJ;Rio de Janeiro;15.163,00 m2
+VISC11;VISC11;Crystal Shopping;R. Comendador Araújo, 731;Batel;PR;Curitiba;14.120,00 m2
+VISC11;VISC11;Ilha Plaza;Av. Maestro Paulo e Silva, 400;Jardim Carioca;RJ;Rio de Janeiro;21.615,00 m2
+VISC11;VISC11;Shopping Granja Vianna;Rodovia Raposo Tavares, km 23.5;Lageadinho;SP;Cotia;30.463,00 m2
+VISC11;VISC11;Shopping  Iguatemi  Fortaleza;Av. Washington Soares, 85;Edson Queiroz;CE;Fortaleza;90.016,00 m2
+VISC11;VISC11;Shopping Paralela;Av. Luís Viana, 8544;Alphaville;BA;Salvador;40.247,00 m2
+VISC11;VISC11;Shopping Pátio Belém;Tv. Padre Eutíquio, 1078;Batista Campos;PA;Belém;21.567,00 m2
+VISC11;VISC11;Shopping  Tacaruna;Av. Gov. Agamenon Magalhães, 153;Santo Amaro;PE;Recife;44.950,00 m2
+VISC11;VISC11;West Shopping;Estr. do Mendanha, 555;Campo Grande;RJ;Rio de Janeiro;41.405,00 m2
+VLOL11;VLOL11;Vila Olímpia Corporate;Rua Fidêncio Ramos, 302;Vila Olimpia;SP;São Paulo;10.368,28 m2
+VSHO11;VSHO11;SHOPPING BAY MARKET;Av. Visconde do Rio Branco, 360;Centro;RJ;Niterói;12.043,00 m2
+VSHO11;VSHO11;SHOPPING HORTOLÂNDIA;R. José Camilo de Camargo, 5;Remanso Campineiro;SP;Hortolândia;20.055,00 m2
+VSHO11;VSHO11;SHOPPING VALINHOS;R. Paiquerê, 200;Jardim Paiquere;SP;Valinhos;13.728,00 m2
+WPLZ11;WPLZ11;Shopping West Plaza;Avenida Francisco Matarazzo;Água Branca;SP;São Paulo;33.799,34 m2
+XPCM11;XPCM11;The Corporate;Av. Prefeito Aristeu Ferreira da Silva, 370;Bairro dos Cavaleiros;RJ;Macaé;18.641,00 m2
+XPIN11;XPIN11;Centro Empresarial Atibaia (CEA);Av. Tégula, 444;Pte. Alta;SP;Atibaia;17.175,00 m2
+XPIN11;XPIN11;Condomínio Barão de Mauá;Pte. Alta;Pte. Alta;SP;Atibaia;50.679,00 m2
+XPLG11;XPLG11;CD Dia%;Rua João de Padula, 245;Vila Bertini;SP;Americana;30.098,00 m2
+XPLG11;XPLG11;CD Dia% Ribeirão;Via José Luiz Galvão, 1.905;Bom Jesus;SP;Ribeirão Preto;21.136,00 m2
+XPLG11;XPLG11;CD Leroy;Rod. dos Bandeirantes, KM 34;Condomínio Vila Verde;SP;Cajamar;110.163,00 m2
+XPLG11;XPLG11;CD Panasonic;Estrada Municipal do Mandu, 250;Santa Inês;MG;Itapeva;23.454,00 m2
+XPLG11;XPLG11;CD Via Varejo;Rua Lenine Queiroz, 333;Distrito Industrial;RS;Cachoeirinha;38.410,00 m2
+XPML11;XPML11;Catarina Fashion Outlet;Rodovia Castello  Branco, km. 60;;SP;São Roque;29.506,00 m2
+XPML11;XPML11;Caxias Shopping;Rodovia Washington Luiz, 2.895;Parque Duque;RJ;Duque de Caixas;25.558,00 m2
+XPML11;XPML11;Parque Shopping Belém;Rodovia Augusto Montenegro, 4.300;Parque Verde;PA;Belém;28.676,00 m2
+XPML11;XPML11;Shopping Bela Vista;Alameda  Euvaldo Luz,  92;Horto Bela Vista;BA;Salvador;50.241,00 m2
+XPML11;XPML11;Shopping Cidade Jardim;Av. Magalhães de  Castro, 12.000;Cidade Jardim;SP;São Paulo;37.671,00 m2
+XPML11;XPML11;Shopping Cidade São Paulo;Av. Paulista, 1230;Bela Vista;SP;São Paulo;16.619,00 m2
+XPML11;XPML11;Shopping Ponta Negra;Av. Coronel Teixeira,  5705;Ponta Negra;AM;Manuas;36.615,00 m2
+XTED11;XTED11;Atlântico Office;Avenida Rui Barbosa, nº 2390;Cajueiros;RJ;Macaé;7.012,00 m2
